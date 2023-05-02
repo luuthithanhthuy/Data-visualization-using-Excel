@@ -1,4 +1,4 @@
-# Visualize-data-using-Excel
+# Data-visualization-using-Excel
 1. Đối tượng nghiên cứu
 
 Dự án này tập trung nghiên cứu vào công cụ Excel, từ đó trực quan hóa dữ liệu kinh doanh của Công ty Cổ phần FPT trong giai đoạn từ năm 2017 đến năm 2021, giúp công ty có cái nhìn khái quát về dữ liệu, xây dựng các báo cáo thông minh và đưa ra các đề xuất cho công ty.
